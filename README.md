@@ -1,5 +1,6 @@
-# NTNU Assignment 2 - Swarm Intelligence
-This project contains the implementation of swarm intelligence assignment 2.
+# P5 Sandbox
+This project implements a sandbox for p5js sketches.
+
 ## Setup
 In order to run the program, you'll need NodeJS on your machine.  
 The version it was built on is `v16.16.0`.
